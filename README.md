@@ -1,3 +1,3 @@
 # Projelerim
 Bu repository yaptığım projeleri ve çalışamları içermektedir.  
-**Projeler ve Çalışmalar.pdf** dosyasına tıklayıp ulaşabilirsiniz.
+**Projeler_ve_Çalışmalar.pdf** dosyasına tıklayıp ulaşabilirsiniz.
